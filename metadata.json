@@ -1,0 +1,6 @@
+{
+  "name": "X_700 - Virtual Suhbatdosh",
+  "description": "Ayol obrazidagi zamonaviy va samimiy sun'iy intellektli virtual suhbatdosh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
